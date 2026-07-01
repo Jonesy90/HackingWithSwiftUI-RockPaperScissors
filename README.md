@@ -12,7 +12,7 @@ The challenge was to create a rock, paper, scissors game. The key tasks were -
 
 E.g., If the computer chose "Rock" and "Win", the player will need to chose "Paper" (player would win), but if the player chose "Scissors", the player would have lost.
 
-## What I learn't
+## What I Learned
 1. @State properties are incredibly powerful in SwiftUI, I feel like I should default to @State whenever I know it's going to change or something to be kept an eye on (e.g., Alerts).
 2. Continued use of Stacks, getting a clearer picture to how it's used effectively.
 
