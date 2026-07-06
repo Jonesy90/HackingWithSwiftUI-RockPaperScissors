@@ -19,5 +19,8 @@ E.g., If the computer chose "Rock" and "Win", the player will need to chose "Pap
 ## What it looks like
 <img width="330" height="717" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-06-04 at 13 48 10" src="https://github.com/user-attachments/assets/23f6461b-a298-441c-bcc8-f381b4833467" />
 
+## Additions
+- 06/07/2026: Refactored the project so it usses the MVVM model.
+
 ## Other Challenges
 TBC
